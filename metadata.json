@@ -1,0 +1,6 @@
+{
+  "name": "Roadmap Karir Interaktif",
+  "description": "Platform interaktif rekomendasi jurusan kuliah dan roadmap karir berdasarkan mata pelajaran pilihan SMA/SMK dengan dukungan AI real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
